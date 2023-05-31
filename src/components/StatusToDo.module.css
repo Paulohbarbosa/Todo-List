@@ -1,0 +1,29 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    font-weight: 400;
+    font-size: 0.875rem;
+
+    margin-bottom: 1.5rem;
+}
+
+.tasks{
+    color: var(--blue)
+}
+
+.completed{
+    color: var(--purple)
+}
+
+.div span{
+    margin: 0.5rem;
+    padding: 2px 8px;
+    
+    border-radius: 10px;
+    background: var(--gray-400);
+    
+    color: var(--gray-200);
+    font-size: 0.75rem;
+}

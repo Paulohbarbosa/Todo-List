@@ -1,0 +1,27 @@
+.header{
+    background: var(--gray-700);
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+    gap: 0.75rem;
+    weight: 100vw;
+}
+
+.header strong{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.header strong:nth-child(1n){
+    color: var(--blue);
+}
+
+.header strong:nth-child(2n){
+    color: var(--purpleDark);
+}
+
+@media (max-width: 600px){
+    .header{
+       padding: 3rem 0;
+    }
+}
