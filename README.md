@@ -13,10 +13,10 @@ Neste foi proposto utilizando os fundamentos do ReactJs:
 - Mostrar o progresso de conclusão das tarefas.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+<img alt="rocketpay" src="./src/assets/imgs-Readme/todo-list-2.png" width="100%">
 
+<img alt="rocketpay" src="./src/assets/imgs-Readme/todo-list-1.png" width="100%">
 
 ## Tecnologias utilizadas
 - HTML / CSS / TypeScript
