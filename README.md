@@ -4,7 +4,7 @@
 
 https://todo-ignite-desafios01.netlify.app/
 
-O ToDo-list é um projeto projeto desenvolvido como requisito avaliativo para o curso **Ignite Rocketseat**.
+O ToDo-list é um projeto desenvolvido com o curso **Ignite Rocketseat**.
 
 Neste foi proposto utilizando os fundamentos do ReactJs:
 - Adicionar uma nova tarefa;
@@ -27,7 +27,7 @@ Neste foi proposto utilizando os fundamentos do ReactJs:
 
 ## Funcionalidades
 - Estados;
-- Imutabilidade dos estado;
+- Imutabilidade dos estados;
 - Listas e chaves;
 - Propriedades;
 - Componentização.
